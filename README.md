@@ -1,4 +1,4 @@
-#Análisis de Factores que Influyen en el Crecimiento de un Canal de YouTube
+# Análisis de Factores que Influyen en el Crecimiento de un Canal de YouTube
 ### Objetivo del Proyecto
 Determinar qué factores —duración, hora de publicación y tipo de contenido— influyen más en la obtención de vistas y suscriptores, con el fin de optimizar la estrategia de crecimiento del canal.
 
