@@ -7,7 +7,7 @@ Fuente: YouTube API o exportación desde YouTube Studio.
 Variables clave:
 📅 Fecha y hora de publicación
 🎥 Duración del video
-🎭 Tipo de contenido (Ej: tutorial, vlog, análisis, etc.)
+🎭 Tipo de contenido (Ej: tutorial, vlog, análisis, etc.)\n
 👀 Vistas
 👍 Likes
 💬 Comentarios
@@ -19,7 +19,8 @@ Variables clave:
 ### Procesamiento de Datos
 Eliminación de valores nulos o duplicados.
 Conversión de tiempos y fechas en formatos útiles.
-Agrupación de videos por tipo y análisis de tendencias.
+Agrupación de videos por tipo y análisis de tendencias. \n
+
 ✅ To-Do:
 🔲 Limpiar y transformar los datos según las variables clave.
 🔲 Verificar si hay outliers (videos virales que podrían sesgar el análisis).
